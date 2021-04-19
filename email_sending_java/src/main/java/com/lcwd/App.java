@@ -44,7 +44,7 @@ public class App
 
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("desihippocrates@gmail.com", "Abhifbg@08");
+                return new PasswordAuthentication("desihippocrates@gmail.com", "password");
             }
         });
 
